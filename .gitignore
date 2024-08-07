@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 /all_code_data/*
+/data/DataCode/*
+/data/10732676.zip
 
 # C extensions
 *.so
