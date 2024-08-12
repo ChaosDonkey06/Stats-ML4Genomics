@@ -7,6 +7,8 @@ __pycache__/
 /data/DataCode/*
 /data/10732676.zip
 
+*.DS_Store
+
 # C extensions
 *.so
 
