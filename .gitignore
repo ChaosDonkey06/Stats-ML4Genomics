@@ -8,6 +8,8 @@ __pycache__/
 /data/10732676.zip
 /data/dengue/tree_raw.nwk
 /data/dengue/genotype/sequences/aligned/*
+/analysis/*
+
 create_tree.ipynb
 
 

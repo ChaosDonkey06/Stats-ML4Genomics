@@ -12,7 +12,7 @@ TA: Jaime Cascante Vega (jc12343@nyu.edu)
 
 These 4 viruses cause mild or no symptoms on the first infection of the virus but on the secondary infection disease is severe by a mechanism named Antibody Dependent Enhacement (ADE, cite). The severity of disease on the secondary infection
 
-**data.** sequence data from all 4 serotypes of dengue virus: DENV1, n=1026 sequences, DENV2=796, DENV3=625 and DENV4=477, for a total of 2924 sequences. The sequences are already aligned and each one have 10188 bp.
+**data.** sequence data from all 4 serotypes of dengue virus: DENV1, n=1026 sequences, DENV2=796, DENV3=625 and DENV4=477, for a total of 2924 sequences. The sequences are already aligned and each one has 10188 bp.
 
 From the data I created a phylogeny that represent the evolutionary history of that DENV. We will use both the sequence data and the phylogeny to investigate/ask how does sequence data (genotypic information) could be leveraged to predict a viral phenotype? In this case we will investigate
 
