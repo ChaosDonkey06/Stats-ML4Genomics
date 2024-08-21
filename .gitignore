@@ -6,6 +6,10 @@ __pycache__/
 /all_code_data/*
 /data/DataCode/*
 /data/10732676.zip
+/data/dengue/tree_raw.nwk
+/data/dengue/genotype/sequences/aligned/*
+create_tree.ipynb
+
 
 *.DS_Store
 
