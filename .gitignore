@@ -1,7 +1,11 @@
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+/hw/solution/*
+
 
 /all_code_data/*
 /data/DataCode/*
