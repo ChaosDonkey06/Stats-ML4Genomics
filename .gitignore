@@ -5,7 +5,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 /hw/solution/*
-
+*.pdf
 
 /all_code_data/*
 /data/DataCode/*
