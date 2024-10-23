@@ -7,6 +7,7 @@ __pycache__/
 /hw/solution/*
 *.pdf
 
+/recitations/*
 /all_code_data/*
 /data/DataCode/*
 /data/10732676.zip
