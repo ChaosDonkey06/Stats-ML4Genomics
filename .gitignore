@@ -7,6 +7,7 @@ __pycache__/
 /hw/solution/*
 *.pdf
 
+/grades/*
 /recitations/*
 /all_code_data/*
 /data/DataCode/*
